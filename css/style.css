@@ -50,4 +50,4 @@ nav ul { list-style-type:none; }
 nav ul li { display: inline; }
 nav ul li a img { width: 46px; height: 46px; }
 
-.override .mailto.ninja footer nav.toolbar { background-color: lightgrey; } 
+.override .mailto.ninja footer nav.toolbar { background-color: grey; } 
